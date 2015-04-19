@@ -13,7 +13,7 @@
     ".gitignore",
     ".jshintrc",
     "Gruntfile.js",
-    "package.json",
+    "package.json"
   ],
   "description": "Bluemix Style",
   "main": "scss/main.scss",
