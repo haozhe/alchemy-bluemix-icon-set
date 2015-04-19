@@ -1,0 +1,24 @@
+{
+  "name": "alchemy-bluemix-icon-set",
+  "version": "0.0.1",
+  "authors": [
+    "Stan Haozhe Li <lih@us.ibm.com>",
+    "Caitlin Gettinger <cgettin@us.ibm.com>"
+  ],
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json",
+  ],
+  "description": "Bluemix Style",
+  "main": "scss/main.scss",
+  "homepage": "https://github.com/cloud-platform-design/design-guide-package",
+  "private": true,
+  "dependencies": {
+  }
+}
