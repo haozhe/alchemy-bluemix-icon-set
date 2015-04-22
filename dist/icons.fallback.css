@@ -1,78 +1,104 @@
-.ibm-bluemixSimpleActive_Hover { background-image: url('png/bluemixSimpleActive_Hover.png'); background-repeat: no-repeat; }
+.bm-bluemix { background-image: url('png/bluemix.png'); background-repeat: no-repeat; }
 
-.ibm-bluemixSimpleInactive { background-image: url('png/bluemixSimpleInactive.png'); background-repeat: no-repeat; }
+.bm-bluemix:hover { background-image: url('png/bluemix:hover.png'); background-repeat: no-repeat; }
 
-.ibm-cfSimpleInactive { background-image: url('png/cfSimpleInactive.png'); background-repeat: no-repeat; }
+.bm-bluemixSimpleActive_Hover { background-image: url('png/bluemixSimpleActive_Hover.png'); background-repeat: no-repeat; }
 
-.ibm-checkIconNoCircle { background-image: url('png/checkIconNoCircle.png'); background-repeat: no-repeat; }
+.bm-bluemixSimpleInactive { background-image: url('png/bluemixSimpleInactive.png'); background-repeat: no-repeat; }
 
-.ibm-checkmark { background-image: url('png/checkmark.png'); background-repeat: no-repeat; }
+.bm-cfSimpleInactive { background-image: url('png/cfSimpleInactive.png'); background-repeat: no-repeat; }
 
-.ibm-closeWindowIcon { background-image: url('png/closeWindowIcon.png'); background-repeat: no-repeat; }
+.bm-checkIconNoCircle { background-image: url('png/checkIconNoCircle.png'); background-repeat: no-repeat; }
 
-.ibm-cloudPublic { background-image: url('png/cloudPublic.png'); background-repeat: no-repeat; }
+.bm-checkmark { background-image: url('png/checkmark.png'); background-repeat: no-repeat; }
 
-.ibm-cloudfoundrySimpleActive_Hover { background-image: url('png/cloudfoundrySimpleActive_Hover.png'); background-repeat: no-repeat; }
+.bm-closeWindowIcon { background-image: url('png/closeWindowIcon.png'); background-repeat: no-repeat; }
 
-.ibm-containerBetaOnDarkBkgd { background-image: url('png/containerBetaOnDarkBkgd.png'); background-repeat: no-repeat; }
+.bm-cloudPublic { background-image: url('png/cloudPublic.png'); background-repeat: no-repeat; }
 
-.ibm-containerBeta_lightUI { background-image: url('png/containerBeta_lightUI.png'); background-repeat: no-repeat; }
+.bm-cloudfoundrySimple:hover { background-image: url('png/cloudfoundrySimple:hover.png'); background-repeat: no-repeat; }
 
-.ibm-containerGroupIcon { background-image: url('png/containerGroupIcon.png'); background-repeat: no-repeat; }
+.bm-cloudfoundrySimpleActive_Hover { background-image: url('png/cloudfoundrySimpleActive_Hover.png'); background-repeat: no-repeat; }
 
-.ibm-containerImageIcon { background-image: url('png/containerImageIcon.png'); background-repeat: no-repeat; }
+.bm-containerBetaOnDarkBkgd { background-image: url('png/containerBetaOnDarkBkgd.png'); background-repeat: no-repeat; }
 
-.ibm-containerServiceIcon { background-image: url('png/containerServiceIcon.png'); background-repeat: no-repeat; }
+.bm-containerBeta_lightUI { background-image: url('png/containerBeta_lightUI.png'); background-repeat: no-repeat; }
 
-.ibm-containersSimpleActive_Hover { background-image: url('png/containersSimpleActive_Hover.png'); background-repeat: no-repeat; }
+.bm-containerBeta_onDark { background-image: url('png/containerBeta_onDark.png'); background-repeat: no-repeat; }
 
-.ibm-containersSimpleInactive { background-image: url('png/containersSimpleInactive.png'); background-repeat: no-repeat; }
+.bm-containerBeta_onLight { background-image: url('png/containerBeta_onLight.png'); background-repeat: no-repeat; }
 
-.ibm-dialogX { background-image: url('png/dialogX.png'); background-repeat: no-repeat; }
+.bm-containerGroup { background-image: url('png/containerGroup.png'); background-repeat: no-repeat; }
 
-.ibm-error { background-image: url('png/error.png'); background-repeat: no-repeat; }
+.bm-containerGroupIcon { background-image: url('png/containerGroupIcon.png'); background-repeat: no-repeat; }
 
-.ibm-info { background-image: url('png/info.png'); background-repeat: no-repeat; }
+.bm-containerImage { background-image: url('png/containerImage.png'); background-repeat: no-repeat; }
 
-.ibm-limitedAvailability { background-image: url('png/limitedAvailability.png'); background-repeat: no-repeat; }
+.bm-containerImageIcon { background-image: url('png/containerImageIcon.png'); background-repeat: no-repeat; }
 
-.ibm-moveDown { background-image: url('png/moveDown.png'); background-repeat: no-repeat; }
+.bm-containerServiceIcon { background-image: url('png/containerServiceIcon.png'); background-repeat: no-repeat; }
 
-.ibm-moveUp { background-image: url('png/moveUp.png'); background-repeat: no-repeat; }
+.bm-containersSimpleActive_Hover { background-image: url('png/containersSimpleActive_Hover.png'); background-repeat: no-repeat; }
 
-.ibm-noState { background-image: url('png/noState.png'); background-repeat: no-repeat; }
+.bm-containersSimpleInactive { background-image: url('png/containersSimpleInactive.png'); background-repeat: no-repeat; }
 
-.ibm-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
+.bm-dialogX { background-image: url('png/dialogX.png'); background-repeat: no-repeat; }
 
-.ibm-restartIcon { background-image: url('png/restartIcon.png'); background-repeat: no-repeat; }
+.bm-error { background-image: url('png/error.png'); background-repeat: no-repeat; }
 
-.ibm-singleContainer { background-image: url('png/singleContainer.png'); background-repeat: no-repeat; }
+.bm-info { background-image: url('png/info.png'); background-repeat: no-repeat; }
 
-.ibm-stopped { background-image: url('png/stopped.png'); background-repeat: no-repeat; }
+.bm-limitedAvailability { background-image: url('png/limitedAvailability.png'); background-repeat: no-repeat; }
 
-.ibm-upload { background-image: url('png/upload.png'); background-repeat: no-repeat; }
+.bm-moveDown { background-image: url('png/moveDown.png'); background-repeat: no-repeat; }
 
-.ibm-vmBetaOnLightBkgd { background-image: url('png/vmBetaOnLightBkgd.png'); background-repeat: no-repeat; }
+.bm-moveUp { background-image: url('png/moveUp.png'); background-repeat: no-repeat; }
 
-.ibm-vmBeta_darkUI { background-image: url('png/vmBeta_darkUI.png'); background-repeat: no-repeat; }
+.bm-noState { background-image: url('png/noState.png'); background-repeat: no-repeat; }
 
-.ibm-vmImageIcon { background-image: url('png/vmImageIcon.png'); background-repeat: no-repeat; }
+.bm-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
 
-.ibm-vmPrivate { background-image: url('png/vmPrivate.png'); background-repeat: no-repeat; }
+.bm-restartIcon { background-image: url('png/restartIcon.png'); background-repeat: no-repeat; }
 
-.ibm-vmPrivateWithBox { background-image: url('png/vmPrivateWithBox.png'); background-repeat: no-repeat; }
+.bm-singleContainer { background-image: url('png/singleContainer.png'); background-repeat: no-repeat; }
 
-.ibm-vmPublic { background-image: url('png/vmPublic.png'); background-repeat: no-repeat; }
+.bm-stopped { background-image: url('png/stopped.png'); background-repeat: no-repeat; }
 
-.ibm-vmPublicWithBox { background-image: url('png/vmPublicWithBox.png'); background-repeat: no-repeat; }
+.bm-tabCloudfoundry { background-image: url('png/tabCloudfoundry.png'); background-repeat: no-repeat; }
 
-.ibm-vmSimpleActive_Hover { background-image: url('png/vmSimpleActive_Hover.png'); background-repeat: no-repeat; }
+.bm-tabCloudfoundry:hover { background-image: url('png/tabCloudfoundry:hover.png'); background-repeat: no-repeat; }
 
-.ibm-vmSimpleInactive { background-image: url('png/vmSimpleInactive.png'); background-repeat: no-repeat; }
+.bm-tabContainer { background-image: url('png/tabContainer.png'); background-repeat: no-repeat; }
 
-.ibm-warning { background-image: url('png/warning.png'); background-repeat: no-repeat; }
+.bm-tabContainer:hover { background-image: url('png/tabContainer:hover.png'); background-repeat: no-repeat; }
 
-.ibm-x { background-image: url('png/x.png'); background-repeat: no-repeat; }
+.bm-tabVM { background-image: url('png/tabVM.png'); background-repeat: no-repeat; }
 
-.ibm-xIconMonitoring { background-image: url('png/xIconMonitoring.png'); background-repeat: no-repeat; }
+.bm-tabVM:hover { background-image: url('png/tabVM:hover.png'); background-repeat: no-repeat; }
+
+.bm-upload { background-image: url('png/upload.png'); background-repeat: no-repeat; }
+
+.bm-vmBetaOnLightBkgd { background-image: url('png/vmBetaOnLightBkgd.png'); background-repeat: no-repeat; }
+
+.bm-vmBeta_darkUI { background-image: url('png/vmBeta_darkUI.png'); background-repeat: no-repeat; }
+
+.bm-vmImageIcon { background-image: url('png/vmImageIcon.png'); background-repeat: no-repeat; }
+
+.bm-vmPrivate { background-image: url('png/vmPrivate.png'); background-repeat: no-repeat; }
+
+.bm-vmPrivateWithBox { background-image: url('png/vmPrivateWithBox.png'); background-repeat: no-repeat; }
+
+.bm-vmPublic { background-image: url('png/vmPublic.png'); background-repeat: no-repeat; }
+
+.bm-vmPublicWithBox { background-image: url('png/vmPublicWithBox.png'); background-repeat: no-repeat; }
+
+.bm-vmSimpleActive_Hover { background-image: url('png/vmSimpleActive_Hover.png'); background-repeat: no-repeat; }
+
+.bm-vmSimpleInactive { background-image: url('png/vmSimpleInactive.png'); background-repeat: no-repeat; }
+
+.bm-warning { background-image: url('png/warning.png'); background-repeat: no-repeat; }
+
+.bm-x { background-image: url('png/x.png'); background-repeat: no-repeat; }
+
+.bm-xIconMonitoring { background-image: url('png/xIconMonitoring.png'); background-repeat: no-repeat; }
 

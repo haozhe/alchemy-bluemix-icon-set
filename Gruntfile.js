@@ -36,7 +36,7 @@ module.exports = function (grunt) {
             }],
             options: {
               enhanceSVG: true,
-              cssprefix: '.ibm-'
+              cssprefix: '.bm-'
             }
         }
     },
