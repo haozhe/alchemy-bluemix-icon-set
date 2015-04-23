@@ -1,3 +1,9 @@
+.bm--idl-checkmark { background-image: url('png/-idl-checkmark.png'); background-repeat: no-repeat; }
+
+.bm--idl-upload { background-image: url('png/-idl-upload.png'); background-repeat: no-repeat; }
+
+.bm--idl-x { background-image: url('png/-idl-x.png'); background-repeat: no-repeat; }
+
 .bm-Z_remove_closeWindowIcon { background-image: url('png/Z_remove_closeWindowIcon.png'); background-repeat: no-repeat; }
 
 .bm-_toBeRemove_closeWindowIcon { background-image: url('png/_toBeRemove_closeWindowIcon.png'); background-repeat: no-repeat; }
@@ -62,6 +68,12 @@
 
 .bm-error { background-image: url('png/error.png'); background-repeat: no-repeat; }
 
+.bm-idl-checkmark { background-image: url('png/idl-checkmark.png'); background-repeat: no-repeat; }
+
+.bm-idl-upload { background-image: url('png/idl-upload.png'); background-repeat: no-repeat; }
+
+.bm-idl-x { background-image: url('png/idl-x.png'); background-repeat: no-repeat; }
+
 .bm-info { background-image: url('png/info.png'); background-repeat: no-repeat; }
 
 .bm-limited { background-image: url('png/limited.png'); background-repeat: no-repeat; }
@@ -72,6 +84,10 @@
 
 .bm-moveUp { background-image: url('png/moveUp.png'); background-repeat: no-repeat; }
 
+.bm-msgInfo { background-image: url('png/msgInfo.png'); background-repeat: no-repeat; }
+
+.bm-msgWarning { background-image: url('png/msgWarning.png'); background-repeat: no-repeat; }
+
 .bm-noState { background-image: url('png/noState.png'); background-repeat: no-repeat; }
 
 .bm-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
@@ -81,6 +97,16 @@
 .bm-restartIcon { background-image: url('png/restartIcon.png'); background-repeat: no-repeat; }
 
 .bm-singleContainer { background-image: url('png/singleContainer.png'); background-repeat: no-repeat; }
+
+.bm-statusError { background-image: url('png/statusError.png'); background-repeat: no-repeat; }
+
+.bm-statusLimited { background-image: url('png/statusLimited.png'); background-repeat: no-repeat; }
+
+.bm-statusNostate-01 { background-image: url('png/statusNostate-01.png'); background-repeat: no-repeat; }
+
+.bm-statusRunning { background-image: url('png/statusRunning.png'); background-repeat: no-repeat; }
+
+.bm-statusStopped { background-image: url('png/statusStopped.png'); background-repeat: no-repeat; }
 
 .bm-stopped { background-image: url('png/stopped.png'); background-repeat: no-repeat; }
 
