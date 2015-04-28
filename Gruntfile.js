@@ -36,7 +36,9 @@ module.exports = function (grunt) {
             }],
             options: {
               enhanceSVG: true,
-              cssprefix: '.bm-'
+              cssprefix: '.bm-',
+              defaultWidth: '150px',
+              defaultHeight: '150px'
             }
         }
     },
