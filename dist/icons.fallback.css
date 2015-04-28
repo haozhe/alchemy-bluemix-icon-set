@@ -8,6 +8,10 @@
 
 .bm-_toBeRemove_closeWindowIcon { background-image: url('png/_toBeRemove_closeWindowIcon.png'); background-repeat: no-repeat; }
 
+.bm-arrow-down { background-image: url('png/arrow-down.png'); background-repeat: no-repeat; }
+
+.bm-arrow-up { background-image: url('png/arrow-up.png'); background-repeat: no-repeat; }
+
 .bm-arrowDown { background-image: url('png/arrowDown.png'); background-repeat: no-repeat; }
 
 .bm-arrowUp { background-image: url('png/arrowUp.png'); background-repeat: no-repeat; }
@@ -32,11 +36,25 @@
 
 .bm-closeWindowIcon { background-image: url('png/closeWindowIcon.png'); background-repeat: no-repeat; }
 
+.bm-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
+
 .bm-cloudPublic { background-image: url('png/cloudPublic.png'); background-repeat: no-repeat; }
 
 .bm-cloudfoundrySimple:hover { background-image: url('png/cloudfoundrySimple:hover.png'); background-repeat: no-repeat; }
 
 .bm-cloudfoundrySimpleActive_Hover { background-image: url('png/cloudfoundrySimpleActive_Hover.png'); background-repeat: no-repeat; }
+
+.bm-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
+
+.bm-container-beta_on-light { background-image: url('png/container-beta_on-light.png'); background-repeat: no-repeat; }
+
+.bm-container-group { background-image: url('png/container-group.png'); background-repeat: no-repeat; }
+
+.bm-container-image { background-image: url('png/container-image.png'); background-repeat: no-repeat; }
+
+.bm-container-service { background-image: url('png/container-service.png'); background-repeat: no-repeat; }
+
+.bm-container-single { background-image: url('png/container-single.png'); background-repeat: no-repeat; }
 
 .bm-containerBetaOnDarkBkgd { background-image: url('png/containerBetaOnDarkBkgd.png'); background-repeat: no-repeat; }
 
@@ -64,6 +82,8 @@
 
 .bm-containersSimpleInactive { background-image: url('png/containersSimpleInactive.png'); background-repeat: no-repeat; }
 
+.bm-dialog-x { background-image: url('png/dialog-x.png'); background-repeat: no-repeat; }
+
 .bm-dialogX { background-image: url('png/dialogX.png'); background-repeat: no-repeat; }
 
 .bm-error { background-image: url('png/error.png'); background-repeat: no-repeat; }
@@ -84,6 +104,10 @@
 
 .bm-moveUp { background-image: url('png/moveUp.png'); background-repeat: no-repeat; }
 
+.bm-msg-info { background-image: url('png/msg-info.png'); background-repeat: no-repeat; }
+
+.bm-msg-warning { background-image: url('png/msg-warning.png'); background-repeat: no-repeat; }
+
 .bm-msgInfo { background-image: url('png/msgInfo.png'); background-repeat: no-repeat; }
 
 .bm-msgWarning { background-image: url('png/msgWarning.png'); background-repeat: no-repeat; }
@@ -98,6 +122,16 @@
 
 .bm-singleContainer { background-image: url('png/singleContainer.png'); background-repeat: no-repeat; }
 
+.bm-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
+
+.bm-status-limited { background-image: url('png/status-limited.png'); background-repeat: no-repeat; }
+
+.bm-status-nostate { background-image: url('png/status-nostate.png'); background-repeat: no-repeat; }
+
+.bm-status-running { background-image: url('png/status-running.png'); background-repeat: no-repeat; }
+
+.bm-status-stopped { background-image: url('png/status-stopped.png'); background-repeat: no-repeat; }
+
 .bm-statusError { background-image: url('png/statusError.png'); background-repeat: no-repeat; }
 
 .bm-statusLimited { background-image: url('png/statusLimited.png'); background-repeat: no-repeat; }
@@ -109,6 +143,22 @@
 .bm-statusStopped { background-image: url('png/statusStopped.png'); background-repeat: no-repeat; }
 
 .bm-stopped { background-image: url('png/stopped.png'); background-repeat: no-repeat; }
+
+.bm-tab-bluemix { background-image: url('png/tab-bluemix.png'); background-repeat: no-repeat; }
+
+.bm-tab-bluemix:hover { background-image: url('png/tab-bluemix:hover.png'); background-repeat: no-repeat; }
+
+.bm-tab-cloudfoundry { background-image: url('png/tab-cloudfoundry.png'); background-repeat: no-repeat; }
+
+.bm-tab-cloudfoundry:hover { background-image: url('png/tab-cloudfoundry:hover.png'); background-repeat: no-repeat; }
+
+.bm-tab-container { background-image: url('png/tab-container.png'); background-repeat: no-repeat; }
+
+.bm-tab-container:hover { background-image: url('png/tab-container:hover.png'); background-repeat: no-repeat; }
+
+.bm-tab-vm { background-image: url('png/tab-vm.png'); background-repeat: no-repeat; }
+
+.bm-tab-vm:hover { background-image: url('png/tab-vm:hover.png'); background-repeat: no-repeat; }
 
 .bm-tabBluemix { background-image: url('png/tabBluemix.png'); background-repeat: no-repeat; }
 
@@ -127,6 +177,16 @@
 .bm-tabVM:hover { background-image: url('png/tabVM:hover.png'); background-repeat: no-repeat; }
 
 .bm-upload { background-image: url('png/upload.png'); background-repeat: no-repeat; }
+
+.bm-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
+
+.bm-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
+
+.bm-vm-image { background-image: url('png/vm-image.png'); background-repeat: no-repeat; }
+
+.bm-vm-private { background-image: url('png/vm-private.png'); background-repeat: no-repeat; }
+
+.bm-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
 
 .bm-vmBetaOnLightBkgd { background-image: url('png/vmBetaOnLightBkgd.png'); background-repeat: no-repeat; }
 
