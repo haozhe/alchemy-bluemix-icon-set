@@ -1,48 +1,8 @@
-.bm--idl-checkmark { background-image: url('png/-idl-checkmark.png'); background-repeat: no-repeat; }
-
-.bm--idl-upload { background-image: url('png/-idl-upload.png'); background-repeat: no-repeat; }
-
-.bm--idl-x { background-image: url('png/-idl-x.png'); background-repeat: no-repeat; }
-
-.bm-Z_remove_closeWindowIcon { background-image: url('png/Z_remove_closeWindowIcon.png'); background-repeat: no-repeat; }
-
-.bm-_toBeRemove_closeWindowIcon { background-image: url('png/_toBeRemove_closeWindowIcon.png'); background-repeat: no-repeat; }
-
 .bm-arrow-down { background-image: url('png/arrow-down.png'); background-repeat: no-repeat; }
 
 .bm-arrow-up { background-image: url('png/arrow-up.png'); background-repeat: no-repeat; }
 
-.bm-arrowDown { background-image: url('png/arrowDown.png'); background-repeat: no-repeat; }
-
-.bm-arrowUp { background-image: url('png/arrowUp.png'); background-repeat: no-repeat; }
-
-.bm-bluemix { background-image: url('png/bluemix.png'); background-repeat: no-repeat; }
-
-.bm-bluemix:hover { background-image: url('png/bluemix:hover.png'); background-repeat: no-repeat; }
-
-.bm-bluemixSimpleActive_Hover { background-image: url('png/bluemixSimpleActive_Hover.png'); background-repeat: no-repeat; }
-
-.bm-bluemixSimpleInactive { background-image: url('png/bluemixSimpleInactive.png'); background-repeat: no-repeat; }
-
-.bm-cfSimpleInactive { background-image: url('png/cfSimpleInactive.png'); background-repeat: no-repeat; }
-
-.bm-check { background-image: url('png/check.png'); background-repeat: no-repeat; }
-
-.bm-checkIconNoCircle { background-image: url('png/checkIconNoCircle.png'); background-repeat: no-repeat; }
-
-.bm-check_inCircle { background-image: url('png/check_inCircle.png'); background-repeat: no-repeat; }
-
-.bm-checkmark { background-image: url('png/checkmark.png'); background-repeat: no-repeat; }
-
-.bm-closeWindowIcon { background-image: url('png/closeWindowIcon.png'); background-repeat: no-repeat; }
-
 .bm-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
-
-.bm-cloudPublic { background-image: url('png/cloudPublic.png'); background-repeat: no-repeat; }
-
-.bm-cloudfoundrySimple:hover { background-image: url('png/cloudfoundrySimple:hover.png'); background-repeat: no-repeat; }
-
-.bm-cloudfoundrySimpleActive_Hover { background-image: url('png/cloudfoundrySimpleActive_Hover.png'); background-repeat: no-repeat; }
 
 .bm-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
 
@@ -56,37 +16,7 @@
 
 .bm-container-single { background-image: url('png/container-single.png'); background-repeat: no-repeat; }
 
-.bm-containerBetaOnDarkBkgd { background-image: url('png/containerBetaOnDarkBkgd.png'); background-repeat: no-repeat; }
-
-.bm-containerBeta_lightUI { background-image: url('png/containerBeta_lightUI.png'); background-repeat: no-repeat; }
-
-.bm-containerBeta_onDark { background-image: url('png/containerBeta_onDark.png'); background-repeat: no-repeat; }
-
-.bm-containerBeta_onLight { background-image: url('png/containerBeta_onLight.png'); background-repeat: no-repeat; }
-
-.bm-containerGroup { background-image: url('png/containerGroup.png'); background-repeat: no-repeat; }
-
-.bm-containerGroupIcon { background-image: url('png/containerGroupIcon.png'); background-repeat: no-repeat; }
-
-.bm-containerImage { background-image: url('png/containerImage.png'); background-repeat: no-repeat; }
-
-.bm-containerImageIcon { background-image: url('png/containerImageIcon.png'); background-repeat: no-repeat; }
-
-.bm-containerService { background-image: url('png/containerService.png'); background-repeat: no-repeat; }
-
-.bm-containerServiceIcon { background-image: url('png/containerServiceIcon.png'); background-repeat: no-repeat; }
-
-.bm-containerSingle { background-image: url('png/containerSingle.png'); background-repeat: no-repeat; }
-
-.bm-containersSimpleActive_Hover { background-image: url('png/containersSimpleActive_Hover.png'); background-repeat: no-repeat; }
-
-.bm-containersSimpleInactive { background-image: url('png/containersSimpleInactive.png'); background-repeat: no-repeat; }
-
 .bm-dialog-x { background-image: url('png/dialog-x.png'); background-repeat: no-repeat; }
-
-.bm-dialogX { background-image: url('png/dialogX.png'); background-repeat: no-repeat; }
-
-.bm-error { background-image: url('png/error.png'); background-repeat: no-repeat; }
 
 .bm-idl-checkmark { background-image: url('png/idl-checkmark.png'); background-repeat: no-repeat; }
 
@@ -94,33 +24,13 @@
 
 .bm-idl-x { background-image: url('png/idl-x.png'); background-repeat: no-repeat; }
 
-.bm-info { background-image: url('png/info.png'); background-repeat: no-repeat; }
-
-.bm-limited { background-image: url('png/limited.png'); background-repeat: no-repeat; }
-
-.bm-limitedAvailability { background-image: url('png/limitedAvailability.png'); background-repeat: no-repeat; }
-
-.bm-moveDown { background-image: url('png/moveDown.png'); background-repeat: no-repeat; }
-
-.bm-moveUp { background-image: url('png/moveUp.png'); background-repeat: no-repeat; }
-
 .bm-msg-info { background-image: url('png/msg-info.png'); background-repeat: no-repeat; }
 
 .bm-msg-warning { background-image: url('png/msg-warning.png'); background-repeat: no-repeat; }
 
-.bm-msgInfo { background-image: url('png/msgInfo.png'); background-repeat: no-repeat; }
-
-.bm-msgWarning { background-image: url('png/msgWarning.png'); background-repeat: no-repeat; }
-
-.bm-noState { background-image: url('png/noState.png'); background-repeat: no-repeat; }
-
 .bm-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
 
 .bm-restart { background-image: url('png/restart.png'); background-repeat: no-repeat; }
-
-.bm-restartIcon { background-image: url('png/restartIcon.png'); background-repeat: no-repeat; }
-
-.bm-singleContainer { background-image: url('png/singleContainer.png'); background-repeat: no-repeat; }
 
 .bm-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
 
@@ -131,18 +41,6 @@
 .bm-status-running { background-image: url('png/status-running.png'); background-repeat: no-repeat; }
 
 .bm-status-stopped { background-image: url('png/status-stopped.png'); background-repeat: no-repeat; }
-
-.bm-statusError { background-image: url('png/statusError.png'); background-repeat: no-repeat; }
-
-.bm-statusLimited { background-image: url('png/statusLimited.png'); background-repeat: no-repeat; }
-
-.bm-statusNostate-01 { background-image: url('png/statusNostate-01.png'); background-repeat: no-repeat; }
-
-.bm-statusRunning { background-image: url('png/statusRunning.png'); background-repeat: no-repeat; }
-
-.bm-statusStopped { background-image: url('png/statusStopped.png'); background-repeat: no-repeat; }
-
-.bm-stopped { background-image: url('png/stopped.png'); background-repeat: no-repeat; }
 
 .bm-tab-bluemix { background-image: url('png/tab-bluemix.png'); background-repeat: no-repeat; }
 
@@ -160,24 +58,6 @@
 
 .bm-tab-vm:hover { background-image: url('png/tab-vm:hover.png'); background-repeat: no-repeat; }
 
-.bm-tabBluemix { background-image: url('png/tabBluemix.png'); background-repeat: no-repeat; }
-
-.bm-tabBluemix:hover { background-image: url('png/tabBluemix:hover.png'); background-repeat: no-repeat; }
-
-.bm-tabCloudfoundry { background-image: url('png/tabCloudfoundry.png'); background-repeat: no-repeat; }
-
-.bm-tabCloudfoundry:hover { background-image: url('png/tabCloudfoundry:hover.png'); background-repeat: no-repeat; }
-
-.bm-tabContainer { background-image: url('png/tabContainer.png'); background-repeat: no-repeat; }
-
-.bm-tabContainer:hover { background-image: url('png/tabContainer:hover.png'); background-repeat: no-repeat; }
-
-.bm-tabVM { background-image: url('png/tabVM.png'); background-repeat: no-repeat; }
-
-.bm-tabVM:hover { background-image: url('png/tabVM:hover.png'); background-repeat: no-repeat; }
-
-.bm-upload { background-image: url('png/upload.png'); background-repeat: no-repeat; }
-
 .bm-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
 
 .bm-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
@@ -188,37 +68,5 @@
 
 .bm-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
 
-.bm-vmBetaOnLightBkgd { background-image: url('png/vmBetaOnLightBkgd.png'); background-repeat: no-repeat; }
-
-.bm-vmBeta_darkUI { background-image: url('png/vmBeta_darkUI.png'); background-repeat: no-repeat; }
-
-.bm-vmBeta_onDark { background-image: url('png/vmBeta_onDark.png'); background-repeat: no-repeat; }
-
-.bm-vmBeta_onLight { background-image: url('png/vmBeta_onLight.png'); background-repeat: no-repeat; }
-
-.bm-vmImage { background-image: url('png/vmImage.png'); background-repeat: no-repeat; }
-
-.bm-vmImageIcon { background-image: url('png/vmImageIcon.png'); background-repeat: no-repeat; }
-
-.bm-vmPrivate { background-image: url('png/vmPrivate.png'); background-repeat: no-repeat; }
-
-.bm-vmPrivateWithBox { background-image: url('png/vmPrivateWithBox.png'); background-repeat: no-repeat; }
-
-.bm-vmPrivate_wBox { background-image: url('png/vmPrivate_wBox.png'); background-repeat: no-repeat; }
-
-.bm-vmPublic { background-image: url('png/vmPublic.png'); background-repeat: no-repeat; }
-
-.bm-vmPublicWithBox { background-image: url('png/vmPublicWithBox.png'); background-repeat: no-repeat; }
-
-.bm-vmPublic_wBox { background-image: url('png/vmPublic_wBox.png'); background-repeat: no-repeat; }
-
-.bm-vmSimpleActive_Hover { background-image: url('png/vmSimpleActive_Hover.png'); background-repeat: no-repeat; }
-
-.bm-vmSimpleInactive { background-image: url('png/vmSimpleInactive.png'); background-repeat: no-repeat; }
-
-.bm-warning { background-image: url('png/warning.png'); background-repeat: no-repeat; }
-
-.bm-x { background-image: url('png/x.png'); background-repeat: no-repeat; }
-
-.bm-xIconMonitoring { background-image: url('png/xIconMonitoring.png'); background-repeat: no-repeat; }
+.bm-vm-service { background-image: url('png/vm-service.png'); background-repeat: no-repeat; }
 
