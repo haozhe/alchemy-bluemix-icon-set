@@ -1,6 +1,6 @@
 {
   "name": "alchemy-bluemix-icon-set",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "authors": [
     "Stan Haozhe Li <lih@us.ibm.com>",
     "Caitlin Gettinger <cgettin@us.ibm.com>"
@@ -15,7 +15,7 @@
     "Gruntfile.js",
     "package.json"
   ],
-  "description": "Bluemix Style",
+  "description": "Alchemy Bluemix Icon Set",
   "main": "scss/main.scss",
   "homepage": "https://github.com/cloud-platform-design/design-guide-package",
   "private": true,
