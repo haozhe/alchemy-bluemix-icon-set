@@ -1,0 +1,7 @@
+This is the repo to store all alchemy/bluemix specific icons (outside of IBM Design Language icons).
+
+In order to use it, run the following command to install it as a bower package.
+
+```
+bower install git@git.design.ibm.com:alchemy/icon-set-alchemy-bluemix.git
+```
