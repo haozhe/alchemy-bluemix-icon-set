@@ -10,8 +10,18 @@
 				background-size: 10px 10px;
 			}
 		</style>
+
+		<!-- Step 1 load the loader.js -->
 		<script type="text/javascript" src="grunticon.loader.js"></script>
 
+		<!-- Step 2 load the icons -->
+		<script type="text/javascript">
+
+		//Call gruntion to load the icons
+		grunticon(["icons.data.svg.css", "icons.data.png.css", "icons.fallback.css"], grunticon.svgLoadedCallback);
+		</script>
+		
+		<!-- Step 3 fall back -->
 		<noscript><link href="icons.fallback.css" rel="stylesheet"></noscript>
 
 	</head>
