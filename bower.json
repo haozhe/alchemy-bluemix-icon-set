@@ -1,6 +1,6 @@
 {
   "name": "alchemy-bluemix-icon-set",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "authors": [
     "Stan Haozhe Li <lih@us.ibm.com>",
     "Caitlin Gettinger <cgettin@us.ibm.com>"
@@ -16,7 +16,7 @@
     "package.json"
   ],
   "description": "Alchemy Bluemix Icon Set",
-  "main": "scss/main.scss",
+  "main": "dist/grunticon.loader.js",
   "homepage": "https://github.com/cloud-platform-design/design-guide-package",
   "private": true,
   "dependencies": {
