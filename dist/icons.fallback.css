@@ -2,6 +2,20 @@
 
 .bm-arrow-up { background-image: url('png/arrow-up.png'); background-repeat: no-repeat; }
 
+.bm-bm-container-image_ibm { background-image: url('png/bm-container-image_ibm.png'); background-repeat: no-repeat; }
+
+.bm-bm-container-image_myorg { background-image: url('png/bm-container-image_myorg.png'); background-repeat: no-repeat; }
+
+.bm-bm-vm-beta_on-dark { background-image: url('png/bm-vm-beta_on-dark.png'); background-repeat: no-repeat; }
+
+.bm-bm-vm-beta_on-light { background-image: url('png/bm-vm-beta_on-light.png'); background-repeat: no-repeat; }
+
+.bm-bm-vm-image_ibm { background-image: url('png/bm-vm-image_ibm.png'); background-repeat: no-repeat; }
+
+.bm-bm-vm-image_myorg-private { background-image: url('png/bm-vm-image_myorg-private.png'); background-repeat: no-repeat; }
+
+.bm-bm-vm-image_myorg-public { background-image: url('png/bm-vm-image_myorg-public.png'); background-repeat: no-repeat; }
+
 .bm-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
 
 .bm-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
@@ -11,6 +25,10 @@
 .bm-container-group { background-image: url('png/container-group.png'); background-repeat: no-repeat; }
 
 .bm-container-image { background-image: url('png/container-image.png'); background-repeat: no-repeat; }
+
+.bm-container-image_ibm { background-image: url('png/container-image_ibm.png'); background-repeat: no-repeat; }
+
+.bm-container-image_myorg { background-image: url('png/container-image_myorg.png'); background-repeat: no-repeat; }
 
 .bm-container-service { background-image: url('png/container-service.png'); background-repeat: no-repeat; }
 
@@ -63,6 +81,12 @@
 .bm-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
 
 .bm-vm-image { background-image: url('png/vm-image.png'); background-repeat: no-repeat; }
+
+.bm-vm-image_ibm { background-image: url('png/vm-image_ibm.png'); background-repeat: no-repeat; }
+
+.bm-vm-image_myorg-private { background-image: url('png/vm-image_myorg-private.png'); background-repeat: no-repeat; }
+
+.bm-vm-image_myorg-public { background-image: url('png/vm-image_myorg-public.png'); background-repeat: no-repeat; }
 
 .bm-vm-private { background-image: url('png/vm-private.png'); background-repeat: no-repeat; }
 

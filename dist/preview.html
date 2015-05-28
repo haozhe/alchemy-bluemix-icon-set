@@ -10,18 +10,14 @@
 				background-size: 10px 10px;
 			}
 		</style>
+		<script>
+			/*! grunt-grunticon Stylesheet Loader - v2.1.6 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
 
-		<!-- Step 1 load the loader.js -->
-		<script type="text/javascript" src="grunticon.loader.js"></script>
-
-		<!-- Step 2 load the icons -->
-		<script type="text/javascript">
-
-		//Call gruntion to load the icons
-		grunticon(["icons.data.svg.css", "icons.data.png.css", "icons.fallback.css"], grunticon.svgLoadedCallback);
+(function(e){function n(n,t,o,a){"use strict";var i=e.document.createElement("link"),r=t||e.document.getElementsByTagName("script")[0],d=e.document.styleSheets;return i.rel="stylesheet",i.href=n,i.media="only x",a&&(i.onload=a),r.parentNode.insertBefore(i,r),i.onloadcssdefined=function(e){for(var t,o=0;d.length>o;o++)d[o].href&&d[o].href.indexOf(n)>-1&&(t=!0);t?e():setTimeout(function(){i.onloadcssdefined(e)})},i.onloadcssdefined(function(){i.media=o||"all"}),i}function t(e,n){e.onload=function(){e.onload=null,n&&n.call(e)},"isApplicationInstalled"in navigator&&"onloadcssdefined"in e&&e.onloadcssdefined(n)}var o=function(a,i){"use strict";if(a&&3===a.length){var r=e.Image,d=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===navigator.userAgent.indexOf("Chrome")||-1!==navigator.userAgent.indexOf("Series40")),c=new r;c.onerror=function(){o.method="png",o.href=a[2],n(a[2])},c.onload=function(){var e=1===c.width&&1===c.height,r=a[e&&d?0:e?1:2];o.method=e&&d?"svg":e?"datapng":"png",o.href=r,t(n(r),i)},c.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};o.loadCSS=n,o.onloadCSS=t,e.grunticon=o})(this);(function(e,n){"use strict";var t=n.document,o="grunticon:",r=function(e){if(t.attachEvent?"complete"===t.readyState:"loading"!==t.readyState)e();else{var n=!1;t.addEventListener("readystatechange",function(){n||(n=!0,e())},!1)}},a=function(e){return n.document.querySelector('link[href$="'+e+'"]')},i=function(e){var n,t,r,a,i,c,d={};if(n=e.sheet,!n)return d;t=n.cssRules?n.cssRules:n.rules;for(var s=0;t.length>s;s++)r=t[s].cssText,a=o+t[s].selectorText,i=r.split(");")[0].match(/US\-ASCII\,([^"']+)/),i&&i[1]&&(c=decodeURIComponent(i[1]),d[a]=c);return d},c=function(e){var n,r,a;r="data-grunticon-embed";for(var i in e){a=i.slice(o.length);try{n=t.querySelectorAll(a+"["+r+"]")}catch(c){continue}if(n.length)for(var d=0;n.length>d;d++)n[d].innerHTML=e[i],n[d].style.backgroundImage="none",n[d].removeAttribute(r)}return n},d=function(n){"svg"===e.method&&r(function(){c(i(a(e.href))),"function"==typeof n&&n()})};e.embedIcons=c,e.getCSS=a,e.getIcons=i,e.ready=r,e.svgLoadedCallback=d,e.embedSVG=d})(grunticon,this);
+			
+			
+			grunticon(["icons.data.svg.css", "icons.data.png.css", "icons.fallback.css"]);
 		</script>
-		
-		<!-- Step 3 fall back -->
 		<noscript><link href="icons.fallback.css" rel="stylesheet"></noscript>
 
 	</head>
@@ -30,147 +26,167 @@
 		<h1>PREVIEW - you can change this in the previewTemplate option</h1>
 		
 			
-			<pre><code>.bm-arrow-down:</code></pre><div class="bm-arrow-down" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-arrow-down:</code></pre><div class="bm-arrow-down" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-arrow-up:</code></pre><div class="bm-arrow-up" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-arrow-up:</code></pre><div class="bm-arrow-up" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-cloud-public:</code></pre><div class="bm-cloud-public" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-cloud-public:</code></pre><div class="bm-cloud-public" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-beta_on-dark:</code></pre><div class="bm-container-beta_on-dark" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-beta_on-dark:</code></pre><div class="bm-container-beta_on-dark" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-beta_on-light:</code></pre><div class="bm-container-beta_on-light" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-beta_on-light:</code></pre><div class="bm-container-beta_on-light" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-group:</code></pre><div class="bm-container-group" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-group:</code></pre><div class="bm-container-group" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-image:</code></pre><div class="bm-container-image" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-image:</code></pre><div class="bm-container-image" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-service:</code></pre><div class="bm-container-service" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-image_ibm:</code></pre><div class="bm-container-image_ibm" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-container-single:</code></pre><div class="bm-container-single" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-image_myorg:</code></pre><div class="bm-container-image_myorg" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-dialog-x:</code></pre><div class="bm-dialog-x" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-service:</code></pre><div class="bm-container-service" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-idl-checkmark:</code></pre><div class="bm-idl-checkmark" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-container-single:</code></pre><div class="bm-container-single" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-idl-upload:</code></pre><div class="bm-idl-upload" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-dialog-x:</code></pre><div class="bm-dialog-x" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-idl-x:</code></pre><div class="bm-idl-x" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-idl-checkmark:</code></pre><div class="bm-idl-checkmark" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-msg-info:</code></pre><div class="bm-msg-info" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-idl-upload:</code></pre><div class="bm-idl-upload" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-msg-warning:</code></pre><div class="bm-msg-warning" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-idl-x:</code></pre><div class="bm-idl-x" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-paused:</code></pre><div class="bm-paused" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-msg-info:</code></pre><div class="bm-msg-info" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-restart:</code></pre><div class="bm-restart" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-msg-warning:</code></pre><div class="bm-msg-warning" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-status-error:</code></pre><div class="bm-status-error" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-paused:</code></pre><div class="bm-paused" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-status-limited:</code></pre><div class="bm-status-limited" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-restart:</code></pre><div class="bm-restart" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-status-nostate:</code></pre><div class="bm-status-nostate" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-status-error:</code></pre><div class="bm-status-error" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-status-running:</code></pre><div class="bm-status-running" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-status-limited:</code></pre><div class="bm-status-limited" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-status-stopped:</code></pre><div class="bm-status-stopped" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-status-nostate:</code></pre><div class="bm-status-nostate" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-bluemix:</code></pre><div class="bm-tab-bluemix" style="width: 200px; height: 198px;" ></div><hr/>
+			<pre><code>.bm-status-running:</code></pre><div class="bm-status-running" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-bluemix:hover:</code></pre><div class="bm-tab-bluemix:hover" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-status-stopped:</code></pre><div class="bm-status-stopped" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-cloudfoundry:</code></pre><div class="bm-tab-cloudfoundry" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-bluemix:</code></pre><div class="bm-tab-bluemix" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-cloudfoundry:hover:</code></pre><div class="bm-tab-cloudfoundry:hover" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-bluemix:hover:</code></pre><div class="bm-tab-bluemix:hover" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-container:</code></pre><div class="bm-tab-container" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-cloudfoundry:</code></pre><div class="bm-tab-cloudfoundry" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-container:hover:</code></pre><div class="bm-tab-container:hover" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-cloudfoundry:hover:</code></pre><div class="bm-tab-cloudfoundry:hover" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-vm:</code></pre><div class="bm-tab-vm" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-container:</code></pre><div class="bm-tab-container" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-tab-vm:hover:</code></pre><div class="bm-tab-vm:hover" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-container:hover:</code></pre><div class="bm-tab-container:hover" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-beta_on-dark:</code></pre><div class="bm-vm-beta_on-dark" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-vm:</code></pre><div class="bm-tab-vm" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-beta_on-light:</code></pre><div class="bm-vm-beta_on-light" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-tab-vm:hover:</code></pre><div class="bm-tab-vm:hover" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-image:</code></pre><div class="bm-vm-image" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-vm-beta_on-dark:</code></pre><div class="bm-vm-beta_on-dark" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-private:</code></pre><div class="bm-vm-private" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-vm-beta_on-light:</code></pre><div class="bm-vm-beta_on-light" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-public:</code></pre><div class="bm-vm-public" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-vm-image:</code></pre><div class="bm-vm-image" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 			
-			<pre><code>.bm-vm-service:</code></pre><div class="bm-vm-service" style="width: 200px; height: 200px;" ></div><hr/>
+			<pre><code>.bm-vm-image_ibm:</code></pre><div class="bm-vm-image_ibm" style="width: 64px; height: 64px;" ></div><hr/>
+			
+		
+			
+			<pre><code>.bm-vm-image_myorg-private:</code></pre><div class="bm-vm-image_myorg-private" style="width: 64px; height: 64px;" ></div><hr/>
+			
+		
+			
+			<pre><code>.bm-vm-image_myorg-public:</code></pre><div class="bm-vm-image_myorg-public" style="width: 64px; height: 64px;" ></div><hr/>
+			
+		
+			
+			<pre><code>.bm-vm-private:</code></pre><div class="bm-vm-private" style="width: 64px; height: 64px;" ></div><hr/>
+			
+		
+			
+			<pre><code>.bm-vm-public:</code></pre><div class="bm-vm-public" style="width: 64px; height: 64px;" ></div><hr/>
+			
+		
+			
+			<pre><code>.bm-vm-service:</code></pre><div class="bm-vm-service" style="width: 64px; height: 64px;" ></div><hr/>
 			
 		
 </body>
