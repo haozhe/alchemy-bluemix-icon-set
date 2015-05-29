@@ -1,96 +1,96 @@
-.bm-arrow-down { background-image: url('png/arrow-down.png'); background-repeat: no-repeat; }
+.bmix-arrow-down { background-image: url('png/arrow-down.png'); background-repeat: no-repeat; }
 
-.bm-arrow-up { background-image: url('png/arrow-up.png'); background-repeat: no-repeat; }
+.bmix-arrow-up { background-image: url('png/arrow-up.png'); background-repeat: no-repeat; }
 
-.bm-bm-container-image_ibm { background-image: url('png/bm-container-image_ibm.png'); background-repeat: no-repeat; }
+.bmix-bm-container-image_ibm { background-image: url('png/bm-container-image_ibm.png'); background-repeat: no-repeat; }
 
-.bm-bm-container-image_myorg { background-image: url('png/bm-container-image_myorg.png'); background-repeat: no-repeat; }
+.bmix-bm-container-image_myorg { background-image: url('png/bm-container-image_myorg.png'); background-repeat: no-repeat; }
 
-.bm-bm-vm-beta_on-dark { background-image: url('png/bm-vm-beta_on-dark.png'); background-repeat: no-repeat; }
+.bmix-bm-vm-beta_on-dark { background-image: url('png/bm-vm-beta_on-dark.png'); background-repeat: no-repeat; }
 
-.bm-bm-vm-beta_on-light { background-image: url('png/bm-vm-beta_on-light.png'); background-repeat: no-repeat; }
+.bmix-bm-vm-beta_on-light { background-image: url('png/bm-vm-beta_on-light.png'); background-repeat: no-repeat; }
 
-.bm-bm-vm-image_ibm { background-image: url('png/bm-vm-image_ibm.png'); background-repeat: no-repeat; }
+.bmix-bm-vm-image_ibm { background-image: url('png/bm-vm-image_ibm.png'); background-repeat: no-repeat; }
 
-.bm-bm-vm-image_myorg-private { background-image: url('png/bm-vm-image_myorg-private.png'); background-repeat: no-repeat; }
+.bmix-bm-vm-image_myorg-private { background-image: url('png/bm-vm-image_myorg-private.png'); background-repeat: no-repeat; }
 
-.bm-bm-vm-image_myorg-public { background-image: url('png/bm-vm-image_myorg-public.png'); background-repeat: no-repeat; }
+.bmix-bm-vm-image_myorg-public { background-image: url('png/bm-vm-image_myorg-public.png'); background-repeat: no-repeat; }
 
-.bm-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
+.bmix-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
 
-.bm-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
+.bmix-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
 
-.bm-container-beta_on-light { background-image: url('png/container-beta_on-light.png'); background-repeat: no-repeat; }
+.bmix-container-beta_on-light { background-image: url('png/container-beta_on-light.png'); background-repeat: no-repeat; }
 
-.bm-container-group { background-image: url('png/container-group.png'); background-repeat: no-repeat; }
+.bmix-container-group { background-image: url('png/container-group.png'); background-repeat: no-repeat; }
 
-.bm-container-image { background-image: url('png/container-image.png'); background-repeat: no-repeat; }
+.bmix-container-image { background-image: url('png/container-image.png'); background-repeat: no-repeat; }
 
-.bm-container-image_ibm { background-image: url('png/container-image_ibm.png'); background-repeat: no-repeat; }
+.bmix-container-image_ibm { background-image: url('png/container-image_ibm.png'); background-repeat: no-repeat; }
 
-.bm-container-image_myorg { background-image: url('png/container-image_myorg.png'); background-repeat: no-repeat; }
+.bmix-container-image_myorg { background-image: url('png/container-image_myorg.png'); background-repeat: no-repeat; }
 
-.bm-container-service { background-image: url('png/container-service.png'); background-repeat: no-repeat; }
+.bmix-container-service { background-image: url('png/container-service.png'); background-repeat: no-repeat; }
 
-.bm-container-single { background-image: url('png/container-single.png'); background-repeat: no-repeat; }
+.bmix-container-single { background-image: url('png/container-single.png'); background-repeat: no-repeat; }
 
-.bm-dialog-x { background-image: url('png/dialog-x.png'); background-repeat: no-repeat; }
+.bmix-dialog-x { background-image: url('png/dialog-x.png'); background-repeat: no-repeat; }
 
-.bm-idl-checkmark { background-image: url('png/idl-checkmark.png'); background-repeat: no-repeat; }
+.bmix-idl-checkmark { background-image: url('png/idl-checkmark.png'); background-repeat: no-repeat; }
 
-.bm-idl-upload { background-image: url('png/idl-upload.png'); background-repeat: no-repeat; }
+.bmix-idl-upload { background-image: url('png/idl-upload.png'); background-repeat: no-repeat; }
 
-.bm-idl-x { background-image: url('png/idl-x.png'); background-repeat: no-repeat; }
+.bmix-idl-x { background-image: url('png/idl-x.png'); background-repeat: no-repeat; }
 
-.bm-msg-info { background-image: url('png/msg-info.png'); background-repeat: no-repeat; }
+.bmix-msg-info { background-image: url('png/msg-info.png'); background-repeat: no-repeat; }
 
-.bm-msg-warning { background-image: url('png/msg-warning.png'); background-repeat: no-repeat; }
+.bmix-msg-warning { background-image: url('png/msg-warning.png'); background-repeat: no-repeat; }
 
-.bm-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
+.bmix-paused { background-image: url('png/paused.png'); background-repeat: no-repeat; }
 
-.bm-restart { background-image: url('png/restart.png'); background-repeat: no-repeat; }
+.bmix-restart { background-image: url('png/restart.png'); background-repeat: no-repeat; }
 
-.bm-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
+.bmix-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
 
-.bm-status-limited { background-image: url('png/status-limited.png'); background-repeat: no-repeat; }
+.bmix-status-limited { background-image: url('png/status-limited.png'); background-repeat: no-repeat; }
 
-.bm-status-nostate { background-image: url('png/status-nostate.png'); background-repeat: no-repeat; }
+.bmix-status-nostate { background-image: url('png/status-nostate.png'); background-repeat: no-repeat; }
 
-.bm-status-running { background-image: url('png/status-running.png'); background-repeat: no-repeat; }
+.bmix-status-running { background-image: url('png/status-running.png'); background-repeat: no-repeat; }
 
-.bm-status-stopped { background-image: url('png/status-stopped.png'); background-repeat: no-repeat; }
+.bmix-status-stopped { background-image: url('png/status-stopped.png'); background-repeat: no-repeat; }
 
-.bm-tab-bluemix { background-image: url('png/tab-bluemix.png'); background-repeat: no-repeat; }
+.bmix-tab-bluemix { background-image: url('png/tab-bluemix.png'); background-repeat: no-repeat; }
 
-.bm-tab-bluemix:hover { background-image: url('png/tab-bluemix:hover.png'); background-repeat: no-repeat; }
+.bmix-tab-bluemix:hover { background-image: url('png/tab-bluemix:hover.png'); background-repeat: no-repeat; }
 
-.bm-tab-cloudfoundry { background-image: url('png/tab-cloudfoundry.png'); background-repeat: no-repeat; }
+.bmix-tab-cloudfoundry { background-image: url('png/tab-cloudfoundry.png'); background-repeat: no-repeat; }
 
-.bm-tab-cloudfoundry:hover { background-image: url('png/tab-cloudfoundry:hover.png'); background-repeat: no-repeat; }
+.bmix-tab-cloudfoundry:hover { background-image: url('png/tab-cloudfoundry:hover.png'); background-repeat: no-repeat; }
 
-.bm-tab-container { background-image: url('png/tab-container.png'); background-repeat: no-repeat; }
+.bmix-tab-container { background-image: url('png/tab-container.png'); background-repeat: no-repeat; }
 
-.bm-tab-container:hover { background-image: url('png/tab-container:hover.png'); background-repeat: no-repeat; }
+.bmix-tab-container:hover { background-image: url('png/tab-container:hover.png'); background-repeat: no-repeat; }
 
-.bm-tab-vm { background-image: url('png/tab-vm.png'); background-repeat: no-repeat; }
+.bmix-tab-vm { background-image: url('png/tab-vm.png'); background-repeat: no-repeat; }
 
-.bm-tab-vm:hover { background-image: url('png/tab-vm:hover.png'); background-repeat: no-repeat; }
+.bmix-tab-vm:hover { background-image: url('png/tab-vm:hover.png'); background-repeat: no-repeat; }
 
-.bm-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
+.bmix-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
 
-.bm-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
+.bmix-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
 
-.bm-vm-image { background-image: url('png/vm-image.png'); background-repeat: no-repeat; }
+.bmix-vm-image { background-image: url('png/vm-image.png'); background-repeat: no-repeat; }
 
-.bm-vm-image_ibm { background-image: url('png/vm-image_ibm.png'); background-repeat: no-repeat; }
+.bmix-vm-image_ibm { background-image: url('png/vm-image_ibm.png'); background-repeat: no-repeat; }
 
-.bm-vm-image_myorg-private { background-image: url('png/vm-image_myorg-private.png'); background-repeat: no-repeat; }
+.bmix-vm-image_myorg-private { background-image: url('png/vm-image_myorg-private.png'); background-repeat: no-repeat; }
 
-.bm-vm-image_myorg-public { background-image: url('png/vm-image_myorg-public.png'); background-repeat: no-repeat; }
+.bmix-vm-image_myorg-public { background-image: url('png/vm-image_myorg-public.png'); background-repeat: no-repeat; }
 
-.bm-vm-private { background-image: url('png/vm-private.png'); background-repeat: no-repeat; }
+.bmix-vm-private { background-image: url('png/vm-private.png'); background-repeat: no-repeat; }
 
-.bm-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
+.bmix-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
 
-.bm-vm-service { background-image: url('png/vm-service.png'); background-repeat: no-repeat; }
+.bmix-vm-service { background-image: url('png/vm-service.png'); background-repeat: no-repeat; }
 
