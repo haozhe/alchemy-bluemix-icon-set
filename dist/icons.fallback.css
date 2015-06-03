@@ -1,3 +1,5 @@
+.bmix-collapse-caret { background-image: url('png/collapse-caret.png'); background-repeat: no-repeat; }
+
 .bmix-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
 
 .bmix-container-beta_on-light { background-image: url('png/container-beta_on-light.png'); background-repeat: no-repeat; }
@@ -13,6 +15,10 @@
 .bmix-container-service { background-image: url('png/container-service.png'); background-repeat: no-repeat; }
 
 .bmix-container-single { background-image: url('png/container-single.png'); background-repeat: no-repeat; }
+
+.bmix-fsm { background-image: url('png/fsm.png'); background-repeat: no-repeat; }
+
+.bmix-image-add-own { background-image: url('png/image-add-own.png'); background-repeat: no-repeat; }
 
 .bmix-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
 
@@ -31,4 +37,8 @@
 .bmix-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
 
 .bmix-vm-service { background-image: url('png/vm-service.png'); background-repeat: no-repeat; }
+
+.bmix-volume-add { background-image: url('png/volume-add.png'); background-repeat: no-repeat; }
+
+.bmix-volume-delete { background-image: url('png/volume-delete.png'); background-repeat: no-repeat; }
 

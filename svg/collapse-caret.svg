@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
-<polygon fill="#93A2AA" points="71.2,619.5 509.3,296.4 952.8,619.5 1024,520.9 509.3,148.5 0,520.9 "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="8px" viewBox="0 0 17 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>collapse-caret copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="collapse-caret" sketch:type="MSLayerGroup" fill="#93A2AA">
+            <path d="M1.18203125,7.99152542 L8.45517578,2.51525424 L15.8179687,7.99152542 L17,6.32033898 L8.45517578,0.00847457627 L0,6.32033898 L1.18203125,7.99152542 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
 </svg>
