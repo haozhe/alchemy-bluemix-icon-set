@@ -20,6 +20,8 @@
 
 .bmix-image-add-own { background-image: url('png/image-add-own.png'); background-repeat: no-repeat; }
 
+.bmix-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
+
 .bmix-vm-beta_on-dark { background-image: url('png/vm-beta_on-dark.png'); background-repeat: no-repeat; }
 
 .bmix-vm-beta_on-light { background-image: url('png/vm-beta_on-light.png'); background-repeat: no-repeat; }
