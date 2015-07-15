@@ -1,13 +1,31 @@
 This is the repo to store all alchemy/bluemix specific icons (outside of IBM Design Language icons).
 
-In order to use it, run the following command to install it as a bower package.
+## How to use the icon library (for developers)
+
+The icon library is distributed as a bower package, to use it, make sure you have bower installed:
+
+```
+npm install -g bower
+```
+
+To install the icon library bower package, run the following command:
+
 
 ```
 bower install git@git.design.ibm.com:alchemy/icon-set-alchemy-bluemix.git
 ```
 
-## How to add new icons/ modify existing icons
-If you have pulled down the project before, jump to 4.
+To update the bower package, run the following:
+
+```
+bower update
+```
+
+
+## How to add new icons/ modify existing icons (for designers)
+If you have the repository cloned, skip the first section.
+
+###Clone the repository
 
 1. Open Terminal/ Command Line Tool
 2. Navigate to the location (e.g. Projects folder on Desktop) where you want to place files from this repo:
@@ -20,13 +38,26 @@ If you have pulled down the project before, jump to 4.
 	```bash
 	git clone git@git.design.ibm.com:alchemy/icon-set-alchemy-bluemix.git
 	```
-4. Add icons to the svg folder, or modify existing icons. Notice that the icons should be named following this [naming convention](#naming-convention).
-5. Bring up Terminal/ Command Line Tool and navigate into the folder for the repo (e.g. ~/Desktop/Projects/icons):
+	
+###Update the repository
+
+
+
+2. Bring up Terminal/ Command Line Tool and navigate into the folder for the repo (e.g. ~/Desktop/Projects/icons):
 	
 	```bash
 	cd ~/Desktop/Projects/icons
 	```
-6. Check to see a list of added/modified icon files:
+	
+3. Pull the latest changes from the repository.
+
+	```
+	git pull origin master	
+	```
+
+4. Add icons to the svg folder, or modify existing icons. Notice that the icons should be named following this [naming convention](#naming-convention).
+
+5. Check to see a list of added/modified icon files:
 	
 	```bash
 	git status
