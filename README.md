@@ -8,6 +8,7 @@ bower install git@git.design.ibm.com:alchemy/icon-set-alchemy-bluemix.git
 
 ## How to add new icons/ modify existing icons
 If you have pulled down the project before, jump to 4.
+
 1. Open Terminal/ Command Line Tool
 2. Navigate to the location (e.g. Projects folder on Desktop) where you want to place files from this repo:
 	
