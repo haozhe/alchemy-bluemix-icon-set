@@ -18,6 +18,8 @@
 
 .bmix-cloud-public { background-image: url('png/cloud-public.png'); background-repeat: no-repeat; }
 
+.bmix-collapse-caret { background-image: url('png/collapse-caret.png'); background-repeat: no-repeat; }
+
 .bmix-container-beta_on-dark { background-image: url('png/container-beta_on-dark.png'); background-repeat: no-repeat; }
 
 .bmix-container-beta_on-light { background-image: url('png/container-beta_on-light.png'); background-repeat: no-repeat; }
@@ -44,6 +46,8 @@
 
 .bmix-idl-x { background-image: url('png/idl-x.png'); background-repeat: no-repeat; }
 
+.bmix-image-add-own { background-image: url('png/image-add-own.png'); background-repeat: no-repeat; }
+
 .bmix-msg-info { background-image: url('png/msg-info.png'); background-repeat: no-repeat; }
 
 .bmix-msg-warning { background-image: url('png/msg-warning.png'); background-repeat: no-repeat; }
@@ -54,9 +58,17 @@
 
 .bmix-status-error { background-image: url('png/status-error.png'); background-repeat: no-repeat; }
 
+.bmix-status-failed_filled { background-image: url('png/status-failed_filled.png'); background-repeat: no-repeat; }
+
 .bmix-status-limited { background-image: url('png/status-limited.png'); background-repeat: no-repeat; }
 
 .bmix-status-nostate { background-image: url('png/status-nostate.png'); background-repeat: no-repeat; }
+
+.bmix-status-paused_filled { background-image: url('png/status-paused_filled.png'); background-repeat: no-repeat; }
+
+.bmix-status-rolled-back_filled { background-image: url('png/status-rolled-back_filled.png'); background-repeat: no-repeat; }
+
+.bmix-status-rolling-back_filled { background-image: url('png/status-rolling-back_filled.png'); background-repeat: no-repeat; }
 
 .bmix-status-running { background-image: url('png/status-running.png'); background-repeat: no-repeat; }
 
@@ -95,4 +107,8 @@
 .bmix-vm-public { background-image: url('png/vm-public.png'); background-repeat: no-repeat; }
 
 .bmix-vm-service { background-image: url('png/vm-service.png'); background-repeat: no-repeat; }
+
+.bmix-volume-add { background-image: url('png/volume-add.png'); background-repeat: no-repeat; }
+
+.bmix-volume-delete { background-image: url('png/volume-delete.png'); background-repeat: no-repeat; }
 
